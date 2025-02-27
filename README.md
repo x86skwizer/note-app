@@ -1,4 +1,4 @@
-Collecting workspace information# Note App
+# Note App
 
 Note App is a full-stack web application for creating, viewing, and deleting notes. The backend is built with Django and Django REST framework, while the frontend is built with React and Vite.
 
